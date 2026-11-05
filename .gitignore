@@ -1,0 +1,15 @@
+# Build and compiler outputs
+target/
+out/
+build/
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS metadata
+.DS_Store
+Thumbs.db
